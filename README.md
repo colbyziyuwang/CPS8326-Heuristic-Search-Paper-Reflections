@@ -1,3 +1,4 @@
+'''
 @misc{tolpin2013rationaldeploymentmultipleheuristics,
       title={Towards Rational Deployment of Multiple Heuristics in A*}, 
       author={David Tolpin and Tal Beja and Solomon Eyal Shimony and Ariel Felner and Erez Karpas},
@@ -7,3 +8,4 @@
       primaryClass={cs.AI},
       url={https://arxiv.org/abs/1305.5030}, 
 }
+'''
