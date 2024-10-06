@@ -7,3 +7,14 @@
     primaryClass={cs.AI},  
     url={https://arxiv.org/abs/1305.5030}  
 }
+
+@article{hansen2007anytime,
+  title={Anytime heuristic search},
+  author={Hansen, Eric A and Zhou, Rong},
+  journal={Journal of Artificial Intelligence Research},
+  volume={28},
+  pages={267--297},
+  year={2007},
+  publisher={AI Access Foundation}
+}
+
