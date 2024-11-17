@@ -9,3 +9,32 @@
    author={Hansen, E. A. and Zhou, R.},
    year={2007},
    month=mar, pages={267–297} }
+
+@misc{tolpin2013rationaldeploymentmultipleheuristics,
+      title={Towards Rational Deployment of Multiple Heuristics in A*}, 
+      author={David Tolpin and Tal Beja and Solomon Eyal Shimony and Ariel Felner and Erez Karpas},
+      year={2013},
+      eprint={1305.5030},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/1305.5030}, 
+}
+
+@inproceedings{cohen2014type,
+  title={Type-WA*: Using Exploration in Bounded Suboptimal Planning},
+  author={Cohen, Eldan and Valenzano, Richard and McIlraith, Sheila A.},
+  booktitle={Proceedings of the 24th International Conference on Automated Planning and Scheduling (ICAPS)},
+  year={2014},
+  pages={114--122}
+}
+
+@misc{cohen2017fastmapalgorithmshortestpath,
+      title={The FastMap Algorithm for Shortest Path Computations}, 
+      author={Liron Cohen and Tansel Uras and Shiva Jahangiri and Aliyah Arunasalam and Sven Koenig and T. K. Satish Kumar},
+      year={2017},
+      eprint={1706.02792},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/1706.02792}, 
+}
+
