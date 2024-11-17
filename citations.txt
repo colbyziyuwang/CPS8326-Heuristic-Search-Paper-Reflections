@@ -1,0 +1,11 @@
+@article{Hansen_2007,
+   title={Anytime Heuristic Search},
+   volume={28},
+   ISSN={1076-9757},
+   url={http://dx.doi.org/10.1613/jair.2096},
+   DOI={10.1613/jair.2096},
+   journal={Journal of Artificial Intelligence Research},
+   publisher={AI Access Foundation},
+   author={Hansen, E. A. and Zhou, R.},
+   year={2007},
+   month=mar, pages={267–297} }
